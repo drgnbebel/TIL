@@ -65,6 +65,7 @@ while true
     puts '無効な値です'
   end
 end
+
 ヒント
 registration_student メソッド
 このメソッドで処理したい内容は下記の通りです。
